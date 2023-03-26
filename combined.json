@@ -1,0 +1,39 @@
+{
+    "admoores81": {
+        "args-section": {
+            "-l-w-p": 0,
+            "-p-l-o": 1,
+            "-p-l-p": 1,
+            "-p-l-w": 0,
+            "-p-w-l": 0,
+            "-w-o-l-p": 1,
+            "false_-p_in_-p-l-w": 1,
+            "no_args": 2,
+            "string__four__l_in_-p-w-l": 1,
+            "zz_total": 7
+        },
+        "check-section": {
+            "code_is_legible": 0,
+            "proper_implementation_of_rabin_karp": 0,
+            "zz_total": 0
+        },
+        "make-section": {
+            "all_files_filled": 1,
+            "license_contains_name": 2,
+            "makefile_cleans": 2,
+            "makefile_contains_wextra": 1,
+            "makefile_creates_binary": 1,
+            "makefile_uses_all_src_files": 1,
+            "zz_total": 8
+        },
+        "test-section": {
+            "github_actions_script": 0,
+            "local_test_script": 5,
+            "massive_testcase": 0,
+            "our_testcase_1": 0,
+            "our_testcase_2": 0,
+            "zz_total": 5
+        },
+        "zz_total": 20
+    }
+}
